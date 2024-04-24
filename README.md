@@ -1,2 +1,2 @@
 # eForester
-This respository is for Privacy Policy of **eForester** use only
+This respository is for Privacy Policy of **iForester** use only
